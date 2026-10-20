@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [Ignix](https://ignix.social/) - All-in-one social media platform: scheduling for 14 networks, Instagram/Facebook comment-to-DM and chatbot automations, one inbox, analytics and brand listening, AI posts, reels and video edits, a link-in-bio store and booking, all also usable from Claude or ChatGPT via MCP.
 
 ## Analytics
 
